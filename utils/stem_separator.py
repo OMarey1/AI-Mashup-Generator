@@ -1,4 +1,4 @@
-from audio_separator import Separator
+from audio_separator.separator import Separator
 
 class StemProcessor:
     def __init__(self):
